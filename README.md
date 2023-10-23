@@ -21,4 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirzeineddine&show_icons=true&locale=en&theme=transparent" alt="amirzeineddine" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=amirzeineddine&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&layout=compact" alt="GitHub Stats for amirzeineddine" width="700">
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirzeineddine&theme=transparent&include_all_commits=true&count_private=true" alt="amirzeineddine" /></p>
